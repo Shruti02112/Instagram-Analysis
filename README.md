@@ -1,1 +1,1 @@
-# Instagram-Analysis
+This project focuses on analyzing and visualizing data from the top 1000 Instagram influencers. The primary objective is to transform text-based data, such as follower counts and engagement metrics, into numeric values to facilitate detailed analysis. Using Power BI, various visualizations are created to highlight key insights, trends, and comparisons among influencers. The project provides a comprehensive overview of influencer performance, enabling users to make informed decisions based on accurate and interactive data visualizations.
